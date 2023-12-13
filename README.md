@@ -8,3 +8,6 @@ College Name :-Sipna college of engineering and technology
 
 Name :- Vasudha Mahajan
 College Name :- Sipna college of engineering and technology , Amravati.
+
+Name :- Sakshi Kolhe
+College Name :- KesharBai Lahoti Maha-Vidyalaya , Amravati.
