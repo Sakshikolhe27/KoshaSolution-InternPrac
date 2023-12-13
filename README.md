@@ -3,8 +3,11 @@ fork the the file, add your name and clg name in the file using git, send update
 
 Hi
 Hello
-Name :- Shruti Mukwane
+Name :- Shruti Mukw
 College Name :-Sipna college of engineering and technology
 
 Name :- Vasudha Mahajan
 College Name :- Sipna college of engineering and technology , Amravati.
+
+Name :- Sakshi Kolhe
+College Name :- KesharBai Lahoti Maha-Vidhalaya , Amravati.
